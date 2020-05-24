@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="48624c4c-78be-418d-a989-56566788b915" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="gr1_lavoieFA_prototype_jeu" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="tsconfig.json" />
+        <option value="TypeScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>PetitMonde</find>
+      <find>desac</find>
+      <find>splice</find>
+      <find>afficheur</find>
+      <find>faireGa</find>
+      <find>mourri</find>
+      <find>mort</find>
+      <find>fait</find>
+      <find>this.etat</find>
+      <find>retourNor</find>
+      <find>sonVictoire</find>
+      <find>bouger</find>
+      <find>vague</find>
+      <find>setChildIndex</find>
+      <find>tir</find>
+      <find>sonMortA</find>
+      <find>boss</find>
+      <find>sonTap</find>
+      <find>arreterAn</find>
+      <find>Prota</find>
+      <find>arrZone</find>
+      <find>index</find>
+      <find>pdv</find>
+      <find>vitesse</find>
+      <find>mvt</find>
+      <find>Antagoni</find>
+      <find>faire</find>
+      <find>InterfaceV</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>Jeu</replace>
+    </replaceStrings>
+  </component>
+  <component name="ProjectId" id="1WzB5PzKit9j0hMUyYjPqzUSSlU" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="48624c4c-78be-418d-a989-56566788b915" name="Default" comment="" />
+      <created>1555004847348</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1555004847348</updated>
+      <workItem from="1555004848572" duration="1596000" />
+      <workItem from="1555432321519" duration="1976000" />
+      <workItem from="1555434309106" duration="7000" />
+      <workItem from="1555434318431" duration="232000" />
+      <workItem from="1555434573192" duration="3724000" />
+      <workItem from="1555438322356" duration="300000" />
+      <workItem from="1555438624743" duration="5325000" />
+      <workItem from="1555602186127" duration="256000" />
+      <workItem from="1555603980582" duration="6483000" />
+      <workItem from="1556036905111" duration="3605000" />
+      <workItem from="1556108647068" duration="5414000" />
+      <workItem from="1556133690661" duration="1376000" />
+      <workItem from="1556217568760" duration="1190000" />
+      <workItem from="1556289875979" duration="969000" />
+      <workItem from="1556640291185" duration="5532000" />
+      <workItem from="1556661293458" duration="599000" />
+      <workItem from="1556663512569" duration="133000" />
+      <workItem from="1556710544711" duration="2567000" />
+      <workItem from="1556727344578" duration="357000" />
+      <workItem from="1556813251410" duration="9370000" />
+      <workItem from="1556884478330" duration="8416000" />
+      <workItem from="1557244743358" duration="6716000" />
+      <workItem from="1557320136911" duration="3240000" />
+      <workItem from="1557417548535" duration="5852000" />
+      <workItem from="1557489105183" duration="4849000" />
+      <workItem from="1557850016834" duration="5885000" />
+      <workItem from="1558008726630" duration="6503000" />
+      <workItem from="1558097717710" duration="8014000" />
+      <workItem from="1558116943487" duration="33000" />
+      <workItem from="1580142360368" duration="128000" />
+      <workItem from="1580214959082" duration="278000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+    <option name="exactExcludedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/app/BarrePdV.js" />
+        <option value="$PROJECT_DIR$/app/BarrePdV.js.map" />
+        <option value="$PROJECT_DIR$/app/Jeu.js" />
+        <option value="$PROJECT_DIR$/app/Jeu.js.map" />
+        <option value="$PROJECT_DIR$/app/Protagoniste.js" />
+        <option value="$PROJECT_DIR$/app/Protagoniste.js.map" />
+        <option value="$PROJECT_DIR$/app/ObjVisible.js" />
+        <option value="$PROJECT_DIR$/app/ObjVisible.js.map" />
+        <option value="$PROJECT_DIR$/app/ObjMobileAuto.js" />
+        <option value="$PROJECT_DIR$/app/ObjMobileAuto.js.map" />
+        <option value="$PROJECT_DIR$/app/Obstacle.js" />
+        <option value="$PROJECT_DIR$/app/Obstacle.js.map" />
+        <option value="$PROJECT_DIR$/app/Antagoniste.js" />
+        <option value="$PROJECT_DIR$/app/Antagoniste.js.map" />
+        <option value="$PROJECT_DIR$/app/Projectile.js" />
+        <option value="$PROJECT_DIR$/app/Projectile.js.map" />
+        <option value="$PROJECT_DIR$/app/ObjRedimension.js" />
+        <option value="$PROJECT_DIR$/app/ObjRedimension.js.map" />
+        <option value="$PROJECT_DIR$/main.js" />
+        <option value="$PROJECT_DIR$/main.js.map" />
+        <option value="$PROJECT_DIR$/app/DecorFixe.js" />
+        <option value="$PROJECT_DIR$/app/DecorFixe.js.map" />
+        <option value="$PROJECT_DIR$/app/DecorMobile.js" />
+        <option value="$PROJECT_DIR$/app/DecorMobile.js.map" />
+        <option value="$PROJECT_DIR$/app/AfficheurScore.js" />
+        <option value="$PROJECT_DIR$/app/AfficheurScore.js.map" />
+        <option value="$PROJECT_DIR$/app/MiniBoss.js.map" />
+        <option value="$PROJECT_DIR$/app/MiniBoss.js" />
+        <option value="$PROJECT_DIR$/app/Interface.js" />
+        <option value="$PROJECT_DIR$/app/Interface.js.map" />
+        <option value="$PROJECT_DIR$/app/Sons.js" />
+        <option value="$PROJECT_DIR$/app/._Sons.js.map" />
+        <option value="$PROJECT_DIR$/app/._Sons.js" />
+        <option value="$PROJECT_DIR$/app/Sons.js.map" />
+        <option value="$PROJECT_DIR$/app/SonAmbiant.js.map" />
+        <option value="$PROJECT_DIR$/app/SonAmbiant.js" />
+        <option value="$PROJECT_DIR$/app/SonFX.js" />
+        <option value="$PROJECT_DIR$/app/SonFX.js.map" />
+      </list>
+    </option>
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.ts" />
+  </component>
+</project>
